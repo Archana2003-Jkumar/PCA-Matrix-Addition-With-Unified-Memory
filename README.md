@@ -483,4 +483,4 @@ int main(int argc, char **argv)
 <img width="596" alt="image" src="https://github.com/Shavedha/PCA-Matrix-Addition-With-Unified-Memory/assets/93427376/b645d4bf-99af-47ae-9b51-fbdc0cf3ca39">
 
 ## RESULT
-Thus Matrix addition with unified memory is done successfully.
+Thus Matrix addition with unified memory and its performance with nvprof has been executed successfully.
